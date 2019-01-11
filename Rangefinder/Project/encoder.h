@@ -1,0 +1,1 @@
+void encoder_init(); 

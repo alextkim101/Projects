@@ -3,7 +3,7 @@
 //  FOMO_V2
 //
 //  Created by Samuel Kyu-Seo Lee on 12/20/18.
-//  Copyright © 2018 Samuel Kyu-Seo Lee. All rights reserved.
+//  Copyright © 2018 Samuel Kyu-Seo Lee and friends. All rights reserved.
 //
 
 import UIKit

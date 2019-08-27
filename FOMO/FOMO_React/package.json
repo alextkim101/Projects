@@ -11,7 +11,7 @@
   "author": "Jackie Dong",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongoose": "^5.4.1",
